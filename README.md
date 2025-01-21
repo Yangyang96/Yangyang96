@@ -1,4 +1,13 @@
 ## Hi there 👋
+
+- 🌟 I'm currently working on Kusion - a CNCF project revolutionizing application delivery 🚀
+- 📚 Learning and exploring React, NodeJS, and LLM
+- 💡 Passionate about Blockchain, GitOps, AI and Cloud-Native technologies
+- 🤝 Looking to grow the KusionStack community and expand its impact
+- 🎊 Join us! The KusionStack community welcomes contributors from all levels
+- 📫 Want to learn more about KusionStack? Reach out to me at yang.yang8@unswalumni.com
+- 📄 Kusion docs: https://www.kusionstack.io/docs
+
 <div align="center">
   <img src="https://github-readme-stats-omega-six.vercel.app/api?username=Yangyang96&show_icons=true&theme=transparent" />
 </div>
