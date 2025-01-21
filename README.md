@@ -1,4 +1,12 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats-omega-six.vercel.app/api?username=Yangyang96&show_icons=true&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
 
 <!--
 **Yangyang96/Yangyang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
